@@ -69,7 +69,8 @@
           p.mb-4 Las herramientas de analítica web ayudan a gestionar datos cualitativos y cuantitativos de la interacción de visitantes de la web o redes sociales, para entender e interpretar los datos, posibilitando optimizar y mejorar resultados. Gracias a estas herramientas se puede organizar dicha información, conocer métricas más importantes, validar estrategias y resultados, en base a los análisis se puede comprender mejor a los clientes, definir acciones y estrategias para mejorar el sitio y validar la experiencia de usuario y aumentar las conversiones.
           p Según el Observatorio Digital (2020) “Existen múltiples herramientas de analítica digital para web y para redes”, para más información lo invitamos a revisar su página web, dé clic en la imagen.
       .col-12.col-md-5.mb-4.mb-md-0
-        img(src='@/assets/curso/tema3/img04.svg', alt='imagen')
+        a.anexo.blank(href="https://observatorio.digital/blog/analitica-digital-2/#anal" target="_blank")
+          img(src='@/assets/curso/tema3/img04.svg', alt='imagen')
 
     p.mb-4 Actualmente las redes sociales han ganado importancia para las empresas y usuarios, hay una tendencia creciente de las empresas de moda a desarrollar negocio online, lo que posiciona la analítica en redes sociales como estrategias necesarias para medir el grado de interacción de los usuarios. A continuación, revisa el siguiente recurso de aprendizaje para que usted pueda clasificar y valorar cuáles le serán útiles en su campo de acción. Adelante.
 

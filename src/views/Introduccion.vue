@@ -63,18 +63,18 @@
         figure
           img(src='@/assets/curso/intro/img07.svg', alt='recurso de aprendizaje')
 
-      .tarjeta.color-acento-contenido.p-3(x="11%" y="38%")
+      .tarjeta.color-acento-botones.p-3(x="11%" y="41%")
         p.texto-blanco • La difusión de información a través de la internet ha generado oportunidades de modelos de negocios, esto debido a la analítica que procesa los datos y la  información de los clientes para entender necesidades de los clientes, ante esta realidad surge el presente momento de aprendizaje ¿qué esperas para ser un creador de valor para las empresas?
 
-      .tarjeta.color-acento-contenido.p-3(x="58%" y="18%")
+      .tarjeta.color-acento-botones.p-3(x="58%" y="21%")
         p.texto-blanco • Usted tiene a su disposición un conjunto de recursos de aprendizaje para desarrollar conocimientos, habilidades y actitudes. Entre ellos: infografía, videos, textos de los autores del componentes y otros.
 
-      .tarjeta.color-acento-contenido.p-3(x="93%" y="52%")
+      .tarjeta.color-acento-botones.p-3(x="93%" y="55%")
         p.texto-blanco • Mantener una disciplina de estudio de acuerdo a los tiempos que tienes para este componente de formación.
         p.texto-blanco • Participar de los espacios de interacción del programa. Uno de ellos son los foros.
         p.texto-blanco • Si tienes dudas con respecto a su proceso no dudes en escribirle un correo a su instructor.
 
-      .tarjeta.color-acento-contenido.p-3(x="34%" y="83%")
+      .tarjeta.color-acento-botones.p-3(x="33%" y="80%")
         p.texto-blanco • El propósito de este momento está relacionado con medir los resultados obtenidos para el ajuste de la estrategia digital, de acuerdo a la analítica de datos.
 
     p.mb-4 Apreciado aprendiz, agradecemos su atención en la comprensión de información que le será útil para su aprendizaje y el desarrollo de los resultados de aprendizaje esperados.
