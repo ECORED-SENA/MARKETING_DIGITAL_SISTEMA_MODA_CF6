@@ -61,7 +61,7 @@
     ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/intro/img07.svg', alt='recurso de aprendizaje')
+          img(src='@/assets/curso/intro/img07.svg')
 
       .tarjeta.color-acento-botones.p-3(x="11%" y="41%")
         p.texto-blanco • La difusión de información a través de la internet ha generado oportunidades de modelos de negocios, esto debido a la analítica que procesa los datos y la  información de los clientes para entender necesidades de los clientes, ante esta realidad surge el presente momento de aprendizaje ¿qué esperas para ser un creador de valor para las empresas?

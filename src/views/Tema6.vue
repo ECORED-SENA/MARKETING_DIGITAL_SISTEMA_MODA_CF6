@@ -23,7 +23,7 @@
     ImagenInfografica.color-secundario.mb-4
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema6/img01.svg', alt='imagen')
+          img(src='@/assets/curso/tema6/img01.svg')
       .tarjeta.color-acento-botones.p-3(x="51%" y="25%")
         p.texto-blanco Priorizar decisiones, recurso y asignación de actores.
       .tarjeta.color-acento-botones.p-3(x="64%" y="40%")
@@ -41,25 +41,31 @@
 
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-3.mb-4.mb-lg-0
-        .tarjeta.largoHG.color-primario.p-3
+        .tarjeta.mediumHG.color-acento-contenido.p-3
           .h4 Planear
           p.mb-4 Se identifica el problema y se definen objetivos y acciones para lógralos.
-          img.bottom(src='@/assets/curso/tema6/img02.svg', alt='imagen') 
+          .h4.texTransp .
+          .h4.texTransp .
+          img.bottonImg(src='@/assets/curso/tema6/img02.svg') 
       .col-lg-3.mb-4.mb-lg-0
-        .tarjeta.largoHG.color-acento-contenido.p-3
+        .tarjeta.mediumHG.color-primario.p-3
           .h4 Hacer
           p.mb-4 Se trabaja en los cambios para lograr los objetivos.
-          img.bottom(src='@/assets/curso/tema6/img03.svg', alt='imagen') 
+          .h4.texTransp .
+          .h4.texTransp .
+          .h4.texTransp .
+          img.bottonImg(src='@/assets/curso/tema6/img03.svg') 
       .col-lg-3.mb-4.mb-lg-0
-        .tarjeta.largoHG.color-primario.p-3
+        .tarjeta.mediumHG.color-acento-contenido.p-3
           .h4 Verificar
           p.mb-4 Transcurrido un tiempo definido previamente, se evalúa los resultados con base en los KPI (indicadores), para verificar la eficacia y eficiencia de las acciones implementadas.
-          img.bottom(src='@/assets/curso/tema6/img04.svg', alt='imagen') 
+          img.bottonImg(src='@/assets/curso/tema6/img04.svg') 
       .col-lg-3.mb-4.mb-lg-0
-        .tarjeta.largoHG.color-acento-contenido.p-3
+        .tarjeta.mediumHG.color-primario.p-3
           .h4 Actuar
           p.mb-4 Se toman decisiones de acuerdo a lo encontrado generando acciones correctivas y repensando la unidad en el marco de los cambios de contexto.
-          img.bottom(src='@/assets/curso/tema6/img05.svg', alt='imagen')
+          .h4.texTransp .
+          img.bottonImg(src='@/assets/curso/tema6/img05.svg')
 
     .h4 Fases de ejecución
 
@@ -68,30 +74,30 @@
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-10
         .tarjeta.color-acento-contenido.p-3.mb-4
-          .row
-            .col-4.col-lg-2
-              img(src='@/assets/curso/tema6/img06.png', alt='imagen')
+          .row.justify-content-around.align-items-center
+            .col-6.col-lg-2.d-flex.align-items-center.mb-4.mb-lg-0
+              img(src='@/assets/curso/tema6/img06.png')
             .col-lg-9
               .h4 1. Fase análisis
               p.mb-4 Esta fase inicia con la identificación las posibles causas de la problemática, del área y proceso a ser mejorado, teniendo en cuenta los siguientes elementos como: análisis del impacto que tiene el proceso en el área para lograr objetivos estratégicos de la empresa, importancia de la visión, misión y objetivos estratégico y prever los efectos negativos de la situación problémica, para esto existen herramientas y técnicas de análisis como la matriz DOFA (Debilidades, Oportunidades, Fortalezas, , Amenazas) diagramas de causa- efecto, el árbol de problemas.
         .tarjeta.color-primario.p-3.mb-4
-          .row
-            .col-4.col-lg-2
-              img(src='@/assets/curso/tema6/img07.png', alt='imagen')
+          .row.justify-content-around.align-items-center
+            .col-6.col-lg-2.d-flex.align-items-center.mb-4.mb-lg-0
+              img(src='@/assets/curso/tema6/img07.png')
             .col-lg-9
               .h4 2. Fase de planeación
               p.mb-4 Esta planificación debe ser definida en varios momentos o plazos, ser medible viable y flexible y se debe tener en cuenta lo siguiente: validar los resultados del análisis y definir objetivos, definición de posibles soluciones y establecer las acciones, asignación de las responsabilidades a los miembros del equipo, así como la definición de las herramientas para la solución de problemáticas.
         .tarjeta.color-acento-contenido.p-3.mb-4
-          .row
-            .col-4.col-lg-2
-              img(src='@/assets/curso/tema6/img08.png', alt='imagen')
+          .row.justify-content-around.align-items-center
+            .col-6.col-lg-2.d-flex.align-items-center.mb-4.mb-lg-0
+              img(src='@/assets/curso/tema6/img08.png')
             .col-lg-9
               .h4 3. Fase de implementación y seguimiento
               p.mb-4 En esta fase es vital la incorporación del personal pues son los encargados de ejecutar las acciones y se debe tener en cuenta la socialización del plan de mejora, ejecución de las acciones programadas, seguimientos basados en indicadores de impacto y de desempeño y valoración del cumplimiento del plan.
         .tarjeta.color-primario.p-3.mb-4
-          .row
-            .col-4.col-lg-2
-              img(src='@/assets/curso/tema6/img09.png', alt='imagen')
+          .row.justify-content-around.align-items-center
+            .col-6.col-lg-2.d-flex.align-items-center.mb-4.mb-lg-0
+              img(src='@/assets/curso/tema6/img09.png')
             .col-lg-9
               .h4 4. Fase de evaluación
               p.mb-4 Consiste en la verificación del plan de mejora definido, se define a partir de objetivos e indicadores y finalmente se realiza el informe.

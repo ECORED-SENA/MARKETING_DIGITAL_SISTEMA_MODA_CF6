@@ -13,14 +13,14 @@
         p.mb-4 El reporting (reporte) de redes sociales y analítica digital son estrategias eficaces para mejorar la comunicación adecuada entre las campañas de marketing y la dirección de la empresa. De los datos analíticos depende el social media para que sus iniciativas sean eficaces y exitosas, redundando así en beneficio para las empresas. Cuando hablamos de visualización de datos nos referimos al proceso de convertir cantidades grandísimas de información en conocimiento; y para esto se utilizan diversos gráficos estadísticos, que serían aquellas herramientas visuales que ayudan a plasmar datos estadísticos complejos de forma ordenada y sencilla para ser interpretados, analizados y entendidos.
         p Un dato estadístico se puede definir como el valor cuantitativo de un objeto de conocimiento en un tiempo y un espacio, y puedes ser de dos tipos: cuantitativos hace referencia a cantidades y valores y cualitativos son cualidades del producto que no pueden expresarse a partir de números. Entonces un gráfico resultado de una estrategia de analítica digital lo que haces es ordenar los datos estadísticos con diversas estructuras, líneas, barras, burbujas, etc. con el propósito de generar facilidad en el entendimiento sobre la data.
       .col-lg-5
-        img(src='@/assets/curso/tema5/img01.png', alt='imagen')
+        img(src='@/assets/curso/tema5/img01.png')
     
     #t_5_1.titulo-segundo
       .h4 5.1 Características de los gráficos
     
     .row.justify-content-center
       .col-lg-5.mb-4.mb-lg-0
-        img(src='@/assets/curso/tema5/img02.svg', alt='imagen')
+        img(src='@/assets/curso/tema5/img02.svg')
       .col-lg-7.mb-4.mb-lg-0
         .cajon.align-items-center.color-primario.p-4.mb-4
           p.mb-4 Un buen gráfico debe generar las siguientes particularidades:
@@ -56,7 +56,7 @@
             h4 ¿Cuándo se usa? 
             p.mb-4 Este gráfico se implementa para representar variables cuantitativas o cualitativas ordinales
           .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img03.svg', alt='imagen')
+            img(src='@/assets/curso/tema5/img03.svg')
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Gráfico de Barras")
         .row.justify-content-center
           .col-12.col-lg-8.mb-4.mb-lg-0
@@ -66,7 +66,7 @@
             h4 ¿Cuándo se usa? 
             p.mb-4 Cuando se requiera magnitudes de varias categorías o ver la evolución de una magnitud completa.
           .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img05.svg', alt='imagen')
+            img(src='@/assets/curso/tema5/img05.svg')
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Gráfica lineal o de líneas")
         .row.justify-content-center
           .col-12.col-lg-8.mb-4.mb-lg-0
@@ -76,7 +76,7 @@
             h4 ¿Cuándo se usa? 
             p.mb-4 Muy útil para  describir   las tendencias de una serie de datos de un periodo determinado años, meses, semanas, días,  horas, minutos.
           .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img06.svg', alt='imagen')
+            img(src='@/assets/curso/tema5/img06.svg')
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Gráfica circular o pastel")
         .row.justify-content-center
           .col-12.col-lg-8.mb-4.mb-lg-0
@@ -86,7 +86,7 @@
             h4 ¿Cuándo se usa? 
             p.mb-4 Cuando se analizan pocas variables y se requiera recalcar proporciones de un total.
           .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img07.svg', alt='imagen')
+            img(src='@/assets/curso/tema5/img07.svg')
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Gráfica poligonal o polígona de frecuencias")
         .row.justify-content-center
           .col-12.col-lg-8.mb-4.mb-lg-0
@@ -96,7 +96,7 @@
             h4 ¿Cuándo se usa? 
             p.mb-4 Se implementa para mostrar y comparar una variable en el tiempo o evidenciar los cambios de una variable en un periodo determinado.
           .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img08.svg', alt='imagen')
+            img(src='@/assets/curso/tema5/img08.svg')
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Gráfico de acciones")
         .row.justify-content-center
           .col-12.col-lg-8.mb-4.mb-lg-0
@@ -106,7 +106,7 @@
             h4 ¿Cuándo se usa? 
             p.mb-4 Al medir variables cuantitativas que generen y visualizar qué variables tienen valores similares, o si existen valores atípicos entre las variables.
           .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img09.svg', alt='imagen')
+            img(src='@/assets/curso/tema5/img09.svg')
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Gráfico radial o de telaraña")
         .row.justify-content-center
           .col-12.col-lg-8.mb-4.mb-lg-0
@@ -116,7 +116,7 @@
             h4 ¿Cuándo se usa? 
             p.mb-4 Cuando tengamos que analizar o evaluar diferentes opciones en función de múltiples variables.
           .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img10.svg', alt='imagen')
+            img(src='@/assets/curso/tema5/img10.svg')
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Histograma")
         .row.justify-content-center
           .col-12.col-lg-8.mb-4.mb-lg-0
@@ -126,7 +126,7 @@
             h4 ¿Cuándo se usa? 
             p.mb-4 Cuando debamos representar datos cualitativos o datos cuantitativos de tipo discreto.
           .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img11.svg', alt='imagen')
+            img(src='@/assets/curso/tema5/img11.svg')
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Cartograma")
         .row.justify-content-center
           .col-12.col-lg-8.mb-4.mb-lg-0
@@ -136,7 +136,7 @@
             h4 ¿Cuándo se usa? 
             p.mb-4 Cuando tengamos que mostrar una distribución temática sobre como un territorio adquiere un tamaño, proporcional al valor de la variable representada.
           .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img12.svg', alt='imagen')
+            img(src='@/assets/curso/tema5/img12.svg')
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Gráfico de dispersión")
         .row.justify-content-center
           .col-12.col-lg-8.mb-4.mb-lg-0
@@ -146,7 +146,7 @@
             h4 ¿Cuándo se usa? 
             p.mb-4 Cuando necesitamos representar de una gran cantidad de observaciones y se desea saber si existe una relación entre variables.
           .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img13.svg', alt='imagen')
+            img(src='@/assets/curso/tema5/img13.svg')
       .tarjeta.color-acento-contenido--borde.p-4(titulo="Diagrama de Gantt")
         .row.justify-content-center
           .col-12.col-lg-8.mb-4.mb-lg-0
@@ -156,17 +156,7 @@
             h4 ¿Cuándo se usa? 
             p.mb-4 Cuando se requiere planificar un proyecto y gestionar los recursos.
           .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img14.svg', alt='imagen')
-      .tarjeta.color-acento-contenido--borde.p-4(titulo="Tablas")
-        .row.justify-content-center
-          .col-12.col-lg-8.mb-4.mb-lg-0
-            h3 Tablas
-            h4 Explicación
-            p.mb-4 Gráfico que sirve para organizar los datos en columnas dando cuenta de las frecuencias que un dato se repite.
-            h4 ¿Cuándo se usa? 
-            p.mb-4 Este gráfico se implementa para representar variables cuantitativas o cualitativas ordinales
-          .col-8.col-lg-3
-            img(src='@/assets/curso/tema5/img14.svg', alt='imagen')
+            img(src='@/assets/curso/tema5/img14.svg')
 
     #t_5_2.titulo-segundo
       .h4 5.2 Tipos de analíticas
@@ -201,7 +191,7 @@
           p análisis prescriptivo Va más allá del análisis predictivo pues entrega elementos sobre acciones futuras, pero te da claridad sobre cómo abordar ese escenario para optimizar los resultados.
     
     .row.justify-content-around.align-items-center.mb-4
-      .col-9
+      .col-lg-9
         .row
           .col-lg-4.mb-4.mb-lg-0
             .tarjeta.color-acento-contenido.largeHG.p-3
@@ -225,8 +215,8 @@
     #t_5_3.titulo-segundo
       .h4 5.3 Tipos de métricas
 
-    .row
-      .col-6
+    .row.justify-content-around.align-items-center.mb-4
+      .col-lg-6
         p.mb-4 Un informe estadístico producto de un ejercicio de analítica, entrega datos que ayudan al proceso de análisis del rendimiento de la página y de las redes sociales a través de métricas, que son datos que sirven para analizar el rendimiento de las campañas marketing digital. Veremos a continuación algunas métricas comunes en el marketing.
         ul.lista-ul--color
           li 
@@ -245,10 +235,8 @@
             i.lista-ul__vineta
             | Métricas Digitales. Valida seguidores, número de visitas, nivel de interacciones y de conversión.
         p.mb-4 Analizar e interpretar los gráficos estadísticos de las redes sociales y las páginas web, permite no solo recopilar sino comprender los datos arrojados, para alcanzar una visión del actual mercado, conocer y comprender el consumidor objetivo, analizar audiencias, y recopilar todo tipo de comentarios para usarlos como insumo de mejoras.
-
-
-      .col-6
-        img(src='@/assets/curso/tema5/img15.png', alt='imagen')
+      .col-lg-6
+        img(src='@/assets/curso/tema5/img15.png')
 
 </template>
 

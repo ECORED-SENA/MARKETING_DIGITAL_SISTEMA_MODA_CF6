@@ -20,7 +20,7 @@
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           .h3.text-center Según Da Silva (2020):
-          img(src='@/assets/curso/tema1/img02.png', alt='protocolo de atención ')
+          img(src='@/assets/curso/tema1/img02.png')
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p.mb-4 Un protocolo de atención y servicio al cliente es un documento, que se hace en forma de manual, en el que se explican cómo deben ser las actuaciones de los empleados en relación a la atención o a las ventas. En él se detallan los procedimientos de interacción con los consumidores e incluye planes de contingencia para que los empleados sepan reaccionar en diferentes situaciones. Además, fomentan el aprendizaje y son una base fundamental para las capacitaciones de tu equipo. (párr.5)
