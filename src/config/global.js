@@ -133,47 +133,76 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Agencia Nacional de Evaluación de la Calidad y Acreditación –ANECA. (s.f.). Plan de mejoras: herramienta de trabajo.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://www.uantof.cl/public/docs/universidad/direccion_docente/15_elaboracion_plan_de_mejoras.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'AITECO Consultores S.L. (2019). AITECO Consultores: Planes de Mejora.',
+      link: 'https://www.aiteco.es/calidad/plan-de-mejora/',
+    },
+    {
+      referencia:
+        'AQU Catalunya (2005). La calidad, garantía de mejora. Marco general para el establecimiento, el seguimiento y la revisión de los planes de mejora.',
+      link: 'https://www.aqu.cat/doc/doc_40159984_1.pdf',
+    },
+    {
+      referencia:
+        'Castillo, A. y Ponce, D. (2015). Comunicación de Crisis 2.0. Madrid, España: Editorial Fragua.',
+    },
+    {
+      referencia:
+        'Da Silva, D. (2020). Protocolo de atención y servicio al cliente: ¿qué es, por qué es importante para tu empresa, ¿cómo hacerlo y cuáles son sus ventajas? Web Content & SEO Associate, LATAM.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.zendesk.com.mx/blog/protocolo-de-atencion-al-cliente/#:~:text=%E2%80%9CUn%20protocolo%20de%20atenci%C3%B3n%20es,qu%C3%A9%20es%20una%20buena%20atenci%C3%B3n%E2%80%9D.',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Druker, P. (1990). El ejecutivo eficaz. Buenos Aires: Editorial Sudamericana.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Emprendedores. (2020). Emprendedores: Pautas para elaborar un informe eficaz, comprensible y bien presentado.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.emprendedores.es/gestion/como-elaborar-un-documento-eficaz-comprensible-y-bien-presentado/',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Enrique, A. (2017). La comunicación empresarial en situación de crisis. [Tesis de doctorado no publicada]. Universidad Autónoma de Barcelona.',
+      link: 'https://ddd.uab.cat/pub/tesis/2007/tdx-0523108-150642/aej1de1.pdf',
     },
     {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+      referencia: 'Maldonado, S. (s.f.). Analítica Web. Medir para triunfar.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://books.google.es/books?hl=es&lr=&id=8oqgwKf7z2kC&oi=fnd&pg=PA15&dq=Anal%C3%ADtica+Web+2.0&ots=NIerrM0UgY&sig=dUtx-OU3guF-0F7NERHq-Vhun7Q#v=onepage&q=Anal%C3%ADtica%20Web%202.0&f=false',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Morales, M. (2010). Analítica Web para empresas: Arte, ingenio y anticipación.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://books.google.com.mx/books?id=j7QtAwAAQBAJ&printsec=frontcover#v=onepage&q&f=false',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Observatorio Digital (2020). Observatorio Digital: Analítica Digital: mejores herramientas de analítica digital de 2020.',
+      link: 'https://observatorio.digital/blog/analitica-digital-2/#anal',
+    },
+    {
+      referencia:
+        'Pérez, P. y García, F. (2010). La comunicación de crisis como elemento clave de la comunicación empresarial. Revista ICONO, 14, 2010, Año 8, Vol. 2, pp. 42-56. ISSN 1697-8293. Madrid (España).',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=3301612',
+    },
+    {
+      referencia:
+        'Proaño, D.; Gisbert, V. y Pérez, E. (2017). 3C Empresa: investigación y pensamiento crítico. (E. Especial, Ed.). DOI:',
+      link: 'http://dx.doi.org/10.17993/3cemp.2017.especial.50-56/',
+    },
+    {
+      referencia:
+        'Tomas. D (2018). Analítica web y 5 herramientas para medir tus resultados online. Ciberclik [Blog].',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.cyberclick.es/numerical-blog/analitica-web-y-5-herramientas-para-medir-tus-resultados-online#:~:text=La%20anal%C3%ADtica%20web%20consiste%20en,con%20%C3%A9l%20de%20diversas%20maneras',
     },
   ],
   glosario: [
@@ -265,6 +294,34 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'María Camila Álvarez Trujillo',
+        cargo: 'Contratista Diseño Curricular',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda Regional Antioquia',
+      },
+      {
+        nombre: 'Liliana Ceballos',
+        cargo: 'Contratista Diseño Curricular',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda Regional Antioquia',
+      },
+      {
+        nombre: 'Cristian Metaute Medina',
+        cargo: 'Diseñador Instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica del SENA Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor Metodológico y Pedagógico',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
+      {
+        nombre: 'Sandra Patricia  Hoyos Sepúlveda',
+        cargo: 'Revisión y corrección de estilo',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
     ],
     desarrolloProducto: [
       {
@@ -279,25 +336,37 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Anllelo Andres Reina Montañez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: [
+          'Wilson Andrés Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Víctor Cardenas',
+          'Jose Tang',
+          'Maria Camila Ovalle',
+          'Camilo Villamizar',
+        ],
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diego Fernando Velasco Güiza',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yenny patricia Ulloa villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

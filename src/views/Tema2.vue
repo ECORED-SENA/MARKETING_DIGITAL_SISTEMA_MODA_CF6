@@ -8,9 +8,9 @@
         span 2
       h1 Manejo de crisis en atención al cliente en redes sociales
     
-    p.mb-4 Hoy, la reputación de las empresas está expuesta a riesgos, las múltiples posibilidades de la web y el modelo de comunicación participativa e interactiva no detiene fácilmente la conversación digital y este contexto tiene efectos para las empresas directamente relacionados con la reputación corporativa, por eso aparece en el mundo empresarial una nueva disciplina, la gestión de comunicación en crisis, que puede tener doble efecto: buscar frenar la situación que la originó y por otra parte minimizar la pérdida de crédito y capital en la imagen de la empresa, el producto o servicio.
+    p.mb-5 Hoy la reputación de las empresas está expuesta a riesgos, las múltiples posibilidades de la web y el modelo de comunicación participativa e interactiva no detiene fácilmente la conversación digital, y este contexto tiene efectos para las empresas directamente relacionados con la reputación corporativa, por eso aparece en el mundo empresarial una nueva disciplina, la gestión de comunicación en crisis, que puede tener doble efecto: buscar frenar la situación que la originó y por otra parte minimizar la pérdida de crédito y capital en la imagen de la empresa, el producto o servicio.
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-12.col-md-10
         .bloque-texto-c.color-primario.p-4
           i.fas.fa-quote-right
@@ -25,14 +25,13 @@
       .col-12.col-md-6.mb-4.mb-md-0
         img(src='@/assets/curso/tema2/img01.svg')
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-12.col-md-6.mb-4.mb-md-0
         img(src='@/assets/curso/tema2/img02.svg')
       .col-12.col-md-6.mb-4.mb-md-0
         img(src='@/assets/curso/tema2/img03.svg') 
 
     p.mb-4 Teniendo en cuenta las anteriores definiciones, se puede enfatizar que la comunicación de crisis debe atenderse antes, durante y después de las situaciones. Se sugiere alistarse con anterioridad a través del protocolo de gestión de comunicación en crisis para preparar a los colaboradores y proveedores ante una emergencia; en consecuencia, es necesario implementar unos en el plan de gestión de comunicación de crisis. ¿Cuáles creería usted que son?, para más información observa el siguiente recurso de aprendizaje:
-
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="Precaución")
@@ -67,7 +66,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4.mb-4 Reacción planificada
-            p Esta reacción es ante la crisis y se debe diseñar un plan de crisis que defina normas de activación, equipos de ejecución y procedimientos y recomendaciones para la gestión.
+            p Esta reacción es ante la crisis y se debe diseñar un plan de crisis que defina normas de activación, equipos de ejecución y procedimientos, y recomendaciones para la gestión.
           .col-md-6
             img(src='@/assets/curso/tema2/img08.png')
       .py-3.py-md-4(titulo="Apoyo a la gestión y decisión")

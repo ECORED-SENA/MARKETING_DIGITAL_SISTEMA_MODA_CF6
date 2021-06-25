@@ -24,7 +24,7 @@
         .col-lg-8
           .bloque-texto-a__texto.p-4
             p.mb-4 Un protocolo de atención y servicio al cliente es un documento, que se hace en forma de manual, en el que se explican cómo deben ser las actuaciones de los empleados en relación a la atención o a las ventas. En él se detallan los procedimientos de interacción con los consumidores e incluye planes de contingencia para que los empleados sepan reaccionar en diferentes situaciones. Además, fomentan el aprendizaje y son una base fundamental para las capacitaciones de tu equipo. (párr.5)
-            p Teniendo la definición anterior se podría plantear que un protocolo es ese instrumento donde se plasma para la organización, los lineamientos técnicos sobre el modo de actuar deseado con relaciona a la atención al cliente, buscando unidad de criterios conceptos e ideas, para lograr intervenciones efectivas con el cliente y elementos para evaluar y mejorar la calidad de la atención.
+            p Teniendo la definición anterior se podría plantear que un protocolo es ese instrumento donde se plasma para la organización, los lineamientos técnicos sobre el modo de actuar deseado con relacion a la atención al cliente, buscando unidad de criterios conceptos e ideas, para lograr intervenciones efectivas con el cliente y elementos para evaluar y mejorar la calidad de la atención.
 
     #t_1_1.titulo-segundo
       .h4 1.1 Ventajas de un protocolo de atención al cliente

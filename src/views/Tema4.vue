@@ -8,10 +8,10 @@
         span 4
       h1 Elaboración e informe descriptivo del producto
     
-    figure.mb-4
+    figure.mb-5
       img(src='@/assets/curso/tema4/img01.png')
     
-    p.mb-4 En el e-commerce los productos son los órganos vitales, por eso las descripciones de ellos son parte fundamental en la determinación del comprador al momento de comprar. Son un enganche para que el usuario de una tienda online convierta o no un llamado a la acción, es decir lo que se lee del producto influye en la compra. Escribir para vender no es fácil, pues en ellas se debe conjugar información, persuasión y optimización para SEO (Search Engine Optimization); por eso, para potenciar las posibilidades de la reseña de producto es importante tener en cuenta algunos elementos. Estos son:
+    p.mb-5 En el e-commerce los productos son los órganos vitales, por eso las descripciones de ellos son parte fundamental en la determinación del comprador al momento de comprar. Son un enganche para que el usuario de una tienda online convierta o no un llamado a la acción, es decir lo que se lee del producto influye en la compra. Escribir para vender no es fácil, pues en ellas se debe conjugar información, persuasión y optimización para SEO (Search Engine Optimization); por eso, para potenciar las posibilidades de la reseña de producto es importante tener en cuenta algunos elementos. Estos son:
 
     .row.justify-content-center
       .col-2.col-md-1.d-flex.align-items-center.mb-2
@@ -61,13 +61,13 @@
       .col-10.col-md-9.d-flex.align-items-center.mb-2
         p La mayoría de los compradores buscan en la reseña del producto como las beneficia, por eso hay que restarles importancia a los detalles del producto, se sugiere colocar estas especificaciones técnicas en un lugar que no robe la atención o cieguen al comparador, procura que la descripción emotiva y descriptiva se muestre primero y antes de las especificaciones.
       hr.largeWD
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-2.col-md-1.d-flex.align-items-center
         img(src='@/assets/curso/tema4/img10.svg')
       .col-10.col-md-9.d-flex.align-items-center
         p Optimizar las descripciones a nivel SEO (Search Engine Optimization) para potenciar buscadores, creando textos sensibles, únicos y originales que aporten más valor y no robotizar la descripción.
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-10
         .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between

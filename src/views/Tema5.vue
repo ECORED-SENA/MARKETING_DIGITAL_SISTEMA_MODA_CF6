@@ -11,14 +11,14 @@
     .row.mb-5
       .col-lg-7.mb-4.mb-lg-0
         p.mb-4 El reporting (reporte) de redes sociales y analítica digital son estrategias eficaces para mejorar la comunicación adecuada entre las campañas de marketing y la dirección de la empresa. De los datos analíticos depende el social media para que sus iniciativas sean eficaces y exitosas, redundando así en beneficio para las empresas. Cuando hablamos de visualización de datos nos referimos al proceso de convertir cantidades grandísimas de información en conocimiento; y para esto se utilizan diversos gráficos estadísticos, que serían aquellas herramientas visuales que ayudan a plasmar datos estadísticos complejos de forma ordenada y sencilla para ser interpretados, analizados y entendidos.
-        p Un dato estadístico se puede definir como el valor cuantitativo de un objeto de conocimiento en un tiempo y un espacio, y puedes ser de dos tipos: cuantitativos hace referencia a cantidades y valores y cualitativos son cualidades del producto que no pueden expresarse a partir de números. Entonces un gráfico resultado de una estrategia de analítica digital lo que haces es ordenar los datos estadísticos con diversas estructuras, líneas, barras, burbujas, etc. con el propósito de generar facilidad en el entendimiento sobre la data.
+        p Un dato estadístico se puede definir como el valor cuantitativo de un objeto de conocimiento en un tiempo y un espacio, y puedes ser de dos tipos: cuantitativos hace referencia a cantidades y valores, y cualitativos son cualidades del producto que no pueden expresarse a partir de números. Entonces un gráfico resultado de una estrategia de analítica digital lo que haces es ordenar los datos estadísticos con diversas estructuras, líneas, barras, burbujas, etc. con el propósito de generar facilidad en el entendimiento sobre la data.
       .col-lg-5
         img(src='@/assets/curso/tema5/img01.png')
     
     #t_5_1.titulo-segundo
       .h4 5.1 Características de los gráficos
     
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-5.mb-4.mb-lg-0
         img(src='@/assets/curso/tema5/img02.svg')
       .col-lg-7.mb-4.mb-lg-0
@@ -161,54 +161,54 @@
     #t_5_2.titulo-segundo
       .h4 5.2 Tipos de analíticas
     
-    p.mb-4 Entender y saber analizar las estadísticas de la analítica digital de manera correcta, posibilita un mayor crecimiento del negocio. Los informes de las analíticas digitales tienen múltiples finalidades, por eso es importante a la hora de redactar tener en cuenta qué tipo de informe se requiere, veamos los más implementados:
+    p.mb-5 Entender y saber analizar las estadísticas de la analítica digital de manera correcta, posibilita un mayor crecimiento del negocio. Los informes de las analíticas digitales tienen múltiples finalidades, por eso es importante a la hora de redactar tener en cuenta qué tipo de informe se requiere, veamos los más implementados:
   
     
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-3.mb-4.mb-lg-0
         .tarjeta.color-acento-contenido.largeHG.p-3
           .h2 01
-          .h4 Retrospectiva:
+          .h4 Retrospectiva
           hr.subtitle
-          p análisis descriptivo Es la interpretación más común del análisis de estadística de redes y páginas web, basadas en acontecimientos del presente y del pasado. Hace referencia a la compilación de información estadística sobre elementos históricos definidos claramente, que se almacenan y se realiza agregaciones del histórico para la comprensión del estado actual o pasado del negocio; como ejemplo podríamos poner clientes, productos, proveedores.
+          p Análisis descriptivo. Es la interpretación más común del análisis de estadística de redes y páginas web, basadas en acontecimientos del presente y del pasado. Hace referencia a la compilación de información estadística sobre elementos históricos definidos claramente, que se almacenan y se realiza agregaciones del histórico para la comprensión del estado actual o pasado del negocio; como ejemplo podríamos poner clientes, productos, proveedores.
       .col-lg-3.mb-4.mb-lg-0
         .tarjeta.color-primario.largeHG.p-3
           .h2 02
-          .h4 Insights:
+          .h4 Insights
           hr.subtitle
-          p análisis de diagnóstico Gira en torno al “por qué”, es decir da elementos de éxito o fallidos de una campaña, generalmente se combina con la información que entrega el análisis descriptivo.
+          p Análisis de diagnóstico. Gira en torno al “porqué”, es decir da elementos de éxito o fallidos de una campaña, generalmente se combina con la información que entrega el análisis descriptivo.
       .col-lg-3.mb-4.mb-lg-0
         .tarjeta.color-acento-contenido.largeHG.p-3
           .h2 03
           .h4 Previsión
           hr.subtitle
-          p : análisis predictivo Basada en el uso de técnicas de machine learning, datos y algoritmos estadísticos que ayudan a contrarrestar información, para visionar la probabilidad de resultados futuros basado en ese material histórico, definiendo si la estrategia va por buen camino y proveer la mejor evaluación de lo que sucederá en el futuro.
+          p Análisis predictivo. Basada en el uso de técnicas de machine learning, datos y algoritmos estadísticos que ayudan a contrarrestar información, para visionar la probabilidad de resultados futuros basado en ese material histórico, definiendo si la estrategia va por buen camino y proveer la mejor evaluación de lo que sucederá en el futuro.
       .col-lg-3.mb-4.mb-lg-0
         .tarjeta.color-primario.largeHG.p-3
           .h2 04
           .h4 Prospectiva
           hr.subtitle
-          p análisis prescriptivo Va más allá del análisis predictivo pues entrega elementos sobre acciones futuras, pero te da claridad sobre cómo abordar ese escenario para optimizar los resultados.
+          p Análisis prescriptivo. Va más allá del análisis predictivo pues entrega elementos sobre acciones futuras, pero te da claridad sobre cómo abordar ese escenario para optimizar los resultados.
     
-    .row.justify-content-around.align-items-center.mb-4
+    .row.justify-content-around.align-items-center.mb-5
       .col-lg-9
         .row
           .col-lg-4.mb-4.mb-lg-0
             .tarjeta.color-acento-contenido.largeHG.p-3
               .h2 05
-              .h4 Analítica selectiva:
+              .h4 Analítica selectiva
               hr.subtitle
               p Reporting que posibilita seleccionar material a través de un filtro con criterios específicos, generalmente se usa para revisión de casos, para grupos de investigación en un área específica o informes de cumplimiento obligatorio.
           .col-lg-4.mb-4.mb-lg-0
             .tarjeta.color-primario.largeHG.p-3
               .h2 06
-              .h4 Analística y exportación de registros:
+              .h4 Analística y exportación de registros
               hr.subtitle
               p Traslada información de su fuente original para generar reportes específicos, generalmente se usa cuando se van a analizar clientes, datos demográficos de usuarios o interacciones con el servicio antes y postventa.
           .col-lg-4.mb-4.mb-lg-0
             .tarjeta.color-acento-contenido.largeHG.p-3
               .h2 07
-              .h4 Analíticas periódicas:
+              .h4 Analíticas periódicas
               hr.subtitle
               p Son los reportes estándar, se diferencian de las listas de seguimiento, porque no se enfoca a una búsqueda intensiva y reducida, sino que generan en periodos de tiempo establecidos y basados en estadística descriptiva, información más general de un área en concreto.  
 

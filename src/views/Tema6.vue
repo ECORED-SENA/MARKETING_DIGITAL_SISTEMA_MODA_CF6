@@ -20,7 +20,7 @@
         .cajon.d-flex.align-items-center.color-acento-contenido.p-4.mb-4
           p.mb-4 Según AITECO Consultores S.L (2019) Un plan de mejora tiene una proyección a futuro, pues proyecta desde el análisis de una situación, unos objetivos a corto, mediano y largo plazo, priorizando acciones para producir cambios positivos en la cultura organizativa. El plan de mejora no se centra en los problemas esporádicos de una organización. En su lugar, se dirige hacia los problemas crónicos. Son estos los responsables de un insuficiente rendimiento que se manifiesta en un nivel estable de resultados, aunque insatisfactorio. A su vez, los planes de mejora pueden ser proactivos, es decir, dirigirse a mejorar un área de gestión, un servicio o un proceso. En todo caso, su planificación y desarrollo requiere de acciones determinadas, de forma que aseguren el éxito. En el siguiente recurso educativo se exponen los beneficios de un plan de mejora ¿cuáles cree que son los beneficios?, piense por un momento y explore el gráfico.
 
-    ImagenInfografica.color-secundario.mb-4
+    ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema6/img01.svg')
@@ -37,13 +37,13 @@
       .tarjeta.color-acento-botones.p-3(x="37%" y="40%")
         p.texto-blanco Introducir cambios en la cultura organizativa basados en la dirección por objetivos.
     
-    p.mb-4 Luego de percibir los beneficios del plan de mejora, es importante que usted, como aprendiz reconozca los pasos de la metodología del plan de mejora, la cual está basada en el espiral de mejora continua a partir del ciclo PHVA (Planear-Hacer-Verificar-Actuar) la cual está constituida por cuatro fases. Ellas son:
+    p.mb-5 Luego de percibir los beneficios del plan de mejora, es importante que usted, como aprendiz reconozca los pasos de la metodología del plan de mejora, la cual está basada en el espiral de mejora continua a partir del ciclo PHVA (Planear-Hacer-Verificar-Actuar) la cual está constituida por cuatro fases. Ellas son:
 
-    .row.justify-content-around.align-items-center.mb-4
+    .row.justify-content-around.align-items-center.mb-5
       .col-lg-3.mb-4.mb-lg-0
         .tarjeta.mediumHG.color-acento-contenido.p-3
           .h4 Planear
-          p.mb-4 Se identifica el problema y se definen objetivos y acciones para lógralos.
+          p.mb-4 Se identifica el problema y se definen objetivos y acciones para lograrlos.
           .h4.texTransp .
           .h4.texTransp .
           img.bottonImg(src='@/assets/curso/tema6/img02.svg') 
@@ -58,7 +58,7 @@
       .col-lg-3.mb-4.mb-lg-0
         .tarjeta.mediumHG.color-acento-contenido.p-3
           .h4 Verificar
-          p.mb-4 Transcurrido un tiempo definido previamente, se evalúa los resultados con base en los KPI (indicadores), para verificar la eficacia y eficiencia de las acciones implementadas.
+          p.mb-4 Transcurrido un tiempo definido previamente, se evalúan los resultados con base en los KPI (indicadores), para verificar la eficacia y eficiencia de las acciones implementadas.
           img.bottonImg(src='@/assets/curso/tema6/img04.svg') 
       .col-lg-3.mb-4.mb-lg-0
         .tarjeta.mediumHG.color-primario.p-3
@@ -69,7 +69,7 @@
 
     .h4 Fases de ejecución
 
-    p.mb-4 Para definir las fases de ejecución de un plan de mejora nos basaremos en Proaño, D. et al. (2017), que definen cuatro fases a seguir para ejecutar un plan de mejora. Las fases expuestas por estos autores son: 1. Análisis, 2. Planeación, 3. Implementación y Seguimiento y 4. Evaluación. Le sugerimos leerlas e identificar las acciones que debe realizar, esto le permitirá saber cómo hacerlo cuando le toque hacerlo en su contexto laboral.
+    p.mb-5 Para definir las fases de ejecución de un plan de mejora nos basaremos en Proaño, D. et al. (2017), que definen cuatro fases a seguir para ejecutar un plan de mejora. Las fases expuestas por estos autores son: 1. Análisis, 2. Planeación, 3. Implementación y Seguimiento, 4. Evaluación. Le sugerimos leerlas e identificar las acciones que debe realizar, esto le permitirá saber cómo hacerlo cuando le toque hacerlo en su contexto laboral.
 
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-10
@@ -79,21 +79,21 @@
               img(src='@/assets/curso/tema6/img06.png')
             .col-lg-9
               .h4 1. Fase análisis
-              p.mb-4 Esta fase inicia con la identificación las posibles causas de la problemática, del área y proceso a ser mejorado, teniendo en cuenta los siguientes elementos como: análisis del impacto que tiene el proceso en el área para lograr objetivos estratégicos de la empresa, importancia de la visión, misión y objetivos estratégico y prever los efectos negativos de la situación problémica, para esto existen herramientas y técnicas de análisis como la matriz DOFA (Debilidades, Oportunidades, Fortalezas, , Amenazas) diagramas de causa- efecto, el árbol de problemas.
+              p.mb-4 Esta fase inicia con la identificación de las posibles causas de la problemática, del área y proceso a ser mejorado, teniendo en cuenta los siguientes elementos como: análisis del impacto que tiene el proceso en el área para lograr objetivos estratégicos de la empresa, importancia de la visión, misión y objetivos estratégicos y prever los efectos negativos de la situación problémica, para esto existen herramientas y técnicas de análisis como la matriz DOFA (Debilidades, Oportunidades, Fortalezas, Amenazas) diagramas de causa- efecto, el árbol de problemas.
         .tarjeta.color-primario.p-3.mb-4
           .row.justify-content-around.align-items-center
             .col-6.col-lg-2.d-flex.align-items-center.mb-4.mb-lg-0
               img(src='@/assets/curso/tema6/img07.png')
             .col-lg-9
               .h4 2. Fase de planeación
-              p.mb-4 Esta planificación debe ser definida en varios momentos o plazos, ser medible viable y flexible y se debe tener en cuenta lo siguiente: validar los resultados del análisis y definir objetivos, definición de posibles soluciones y establecer las acciones, asignación de las responsabilidades a los miembros del equipo, así como la definición de las herramientas para la solución de problemáticas.
+              p.mb-4 Esta planificación debe ser definida en varios momentos o plazos, ser medible, viable, flexible, y se debe tener en cuenta lo siguiente: validar los resultados del análisis y definir los objetivos, definir las posibles soluciones y establecer las acciones, asignar las responsabilidades a los miembros del equipo y definir las herramientas para la solución de problemáticas.
         .tarjeta.color-acento-contenido.p-3.mb-4
           .row.justify-content-around.align-items-center
             .col-6.col-lg-2.d-flex.align-items-center.mb-4.mb-lg-0
               img(src='@/assets/curso/tema6/img08.png')
             .col-lg-9
               .h4 3. Fase de implementación y seguimiento
-              p.mb-4 En esta fase es vital la incorporación del personal pues son los encargados de ejecutar las acciones y se debe tener en cuenta la socialización del plan de mejora, ejecución de las acciones programadas, seguimientos basados en indicadores de impacto y de desempeño y valoración del cumplimiento del plan.
+              p.mb-4 En esta fase es vital la incorporación del personal pues son los encargados de ejecutar las acciones y se debe tener en cuenta lo siguiente: la socialización del plan de mejora, la ejecución de las acciones programadas, los seguimientos basados en indicadores de impacto y de desempeño, y valoración del cumplimiento del plan.
         .tarjeta.color-primario.p-3.mb-4
           .row.justify-content-around.align-items-center
             .col-6.col-lg-2.d-flex.align-items-center.mb-4.mb-lg-0

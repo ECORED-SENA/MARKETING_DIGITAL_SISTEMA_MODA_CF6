@@ -20,20 +20,20 @@
         .cajon.d-flex.align-items-center.color-acento-contenido.p-4.mb-4
           p El conjunto de procesos que permiten gestionar el conocimiento que se obtiene a través de las herramientas de medición de los sitios web, obtener conclusiones y actuar en base a estas conclusiones, con el fin de alinear la estrategia de medición online con la estrategia de negocio. (p.17)
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-12.col-md-8
-        p A su vez, Tomas, D. (2018) plantea que la analítica
-        .bloque-texto-d.color-acento-contenido.p-4
+        p A su vez, Tomas, D. (2018) plantea que la analítica.
+        .bloque-texto-d.color-primario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h2.text-regular consiste en recopilar la información que generan los usuarios al visitar un sitio web e interactuar con él de diversas maneras. Posteriormente, analizamos todos estos datos para obtener insights que nos ayuden a mejorar e identificar a un público potencial
+            h2.text-regular Consiste en recopilar la información que generan los usuarios al visitar un sitio web e interactuar con él de diversas maneras. Posteriormente, analizamos todos estos datos para obtener insights que nos ayuden a mejorar e identificar a un público potencial
             i.fas.fa-quote-right  
             |  (párr.1).
     
     p.mb-4 Ambas definiciones están relacionadas con estrategias de medición y métricas, que son usadas en las diferentes organizaciones para lograr su proceso misional como son:
 
     .row.justify-content-center.mb-4
-      .col-12.col-md-6.mb-4.mb-md-0
+      .col-12.col-md-7.mb-4.mb-md-0
         ul.lista-ul--color
           li 
             i.lista-ul__vineta
