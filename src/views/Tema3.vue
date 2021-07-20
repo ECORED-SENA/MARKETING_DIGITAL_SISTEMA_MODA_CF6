@@ -131,7 +131,7 @@
           .col-md-7.d-flex.align-items-center.mb-4.mb-md-0
             p Es la herramienta de Facebook  para analizar usuarios desde la lectura de datos demográficos sexo, edad, ubicación, cargos formación académica, situaciones sentimentales, interés, estilos de vida, estos variables  ayudan a la empresa para crear contenidos que capten la atención de los usuarios.
 
-    p.mb-4 Hasta aquí se han presentado algunas herramientas para obtener datos e información de sus clientes en diferentes sitios y aplicaciones web; pero es importante que usted comprenda que con los avances tecnológicos día a día surgen nuevas herramientas, por eso es importante que usted está constantemente identificando cuáles son las novedades que hay día a día con respecto a ellas. No se quede quieto, siga aprendiendo.
+    p.mb-4 Hasta aquí se han presentado algunas herramientas para obtener datos e información de sus clientes en diferentes sitios y aplicaciones web; pero es importante que usted comprenda que con los avances tecnológicos día a día surgen nuevas herramientas, por eso es importante que usted esté constantemente identificando cuáles son las novedades que hay día a día con respecto a ellas. No se quede quieto, siga aprendiendo.
     
 </template>
 

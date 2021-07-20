@@ -83,7 +83,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.3',
-            titulo: 'Tipos de métrica',
+            titulo: 'Tipos de métricas',
             hash: 't_5_3',
           },
         ],

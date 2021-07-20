@@ -27,13 +27,13 @@
       .tarjeta.color-acento-botones.p-3(x="51%" y="25%")
         p.texto-blanco Priorizar decisiones, recurso y asignación de actores.
       .tarjeta.color-acento-botones.p-3(x="64%" y="40%")
-        p.texto-blanco Globalizar la mirada y la acción de los problemas con perspectiva temporal
+        p.texto-blanco Globalizar la mirada y la acción de los problemas con perspectiva temporal.
       .tarjeta.color-acento-botones.p-3(x="64%" y="61%")
-        p.texto-blanco Repensar la cultura organizativa con proyección a futuro enmarcada en los cambios requeridos según contexto
+        p.texto-blanco Repensar la cultura organizativa con proyección a futuro enmarcada en los cambios requeridos según contexto.
       .tarjeta.color-acento-botones.p-3(x="51%" y="75%")
-        p.texto-blanco Visionar loa objetivos esperados  versus acciones desarrolladas para lograrlos
+        p.texto-blanco Visionar los objetivos esperados  versus acciones desarrolladas para lograrlos.
       .tarjeta.color-acento-botones.p-3(x="37%" y="61%")
-        p.texto-blanco Involucrar a los actores de las diferentes áreas y procesos en la mejora organizacional
+        p.texto-blanco Involucrar a los actores de las diferentes áreas y procesos en la mejora organizacional.
       .tarjeta.color-acento-botones.p-3(x="37%" y="40%")
         p.texto-blanco Introducir cambios en la cultura organizativa basados en la dirección por objetivos.
     

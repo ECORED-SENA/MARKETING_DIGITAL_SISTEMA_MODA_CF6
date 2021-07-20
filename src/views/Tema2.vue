@@ -52,7 +52,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4.mb-4 Previsión
-            p Si bien es difícil que una organización pueda preparase para afrontar los riesgos, lo que se debe hacer es un mapa que visualiza riesgos y crisis y sus posibles evoluciones.
+            p Si bien es difícil que una organización pueda prepararse para afrontar los riesgos, lo que se debe hacer es un mapa que visualiza riesgos y crisis y sus posibles evoluciones.
           .col-md-6
             img(src='@/assets/curso/tema2/img06.png')
       .py-3.py-md-4(titulo="Anticipación en la planificación")
